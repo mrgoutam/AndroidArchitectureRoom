@@ -1,0 +1,11 @@
+1. Add dependencies: check in project/grandle. if not present then include this.
+  allprojects {
+      repositories {
+          jcenter()
+          google()
+      }
+  }
+
+2. Add Dependencies: insert the libraries
+
+3. Create Entity
